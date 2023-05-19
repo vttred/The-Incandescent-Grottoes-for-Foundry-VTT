@@ -1,4 +1,4 @@
-# template-public-distribution-repo
+# The Incandescent Grottoes for Foundry VTT
 
 ## Where to Purchase Premium Content
 
